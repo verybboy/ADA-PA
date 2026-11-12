@@ -18,4 +18,7 @@ begin
    Int_IO.Put(mcd(25,5)); --5
    Int_IO.Put(mcd(57, 23)); --1
    Int_IO.Put(mcd(135, 18)); --9
+
+   -- Aqui se puede añadir codigo para que el usuario interactue con el programa
+
 end Main;
