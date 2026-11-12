@@ -1,0 +1,85 @@
+V "GNAT Lib v2011"
+M P W=b
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnvnnvnnnvnnnnnnnnvnnnnnnnnnvnnnnnnnnvnnnnvnvvnnnnvnnnnnnnnnnnnnn
+
+U main%b		main.adb		3899c2d7 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.finalization.heap_management%s  a-fihema.adb  a-fihema.ali
+W ada.io_exceptions%s	a-ioexce.ads		a-ioexce.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.unchecked_conversion%s
+W interfaces%s		interfac.ads		interfac.ali
+W interfaces.c_streams%s  i-cstrea.adb		i-cstrea.ali
+W sequential_io%s
+W system%s		system.ads		system.ali
+W system.crtl%s		s-crtl.ads		s-crtl.ali
+W system.file_control_block%s  s-ficobl.ads	s-ficobl.ali
+W system.file_io%s	s-fileio.adb		s-fileio.ali
+W system.sequential_io%s  s-sequio.adb		s-sequio.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.storage_elements%s  s-stoele.adb	s-stoele.ali
+W system.unsigned_types%s  s-unstyp.ads		s-unstyp.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-except.ads		20110428140900 4759ecee
+D a-finali.ads		20110428140900 b333d305
+D a-fihema.ads		20110428140900 1940728a
+D a-ioexce.ads		20110428140900 8b9de6cd
+D a-sequio.ads		20110428140902 7b5d9d38
+D a-sequio.adb		20110428140902 f458c90c
+D a-stream.ads		20110428140902 2ca4ee37
+D a-tags.ads		20110428140902 7b33f560
+D a-textio.ads		20110428140902 386df5d4
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-cstrea.ads		20110428140906 1bd72c32
+D main.adb		20121123001444 e5acd022
+D sequenio.ads		20110428140910 98e3343c
+D system.ads		20110428140910 bc164b96
+D s-crtl.ads		20110428140906 ac77b159
+D s-exctab.ads		20110428140906 66e51330
+D s-ficobl.ads		20110428140906 443b9d66
+D s-fileio.ads		20110428140906 529bb6b9
+D s-finroo.ads		20110428140906 2dd85ce2
+D s-parame.ads		20110428140908 03aa3b01
+D s-pooglo.ads		20110428140908 542f33d0
+D s-secsta.ads		20110428140908 eea35a36
+D s-sequio.ads		20110428140908 fc7560a7
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-stopoo.ads		20110428140908 5c51faf9
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-wchcon.ads		20110428140910 bfeb2e3d
+D text_io.ads		20110428140910 45d626c9
+X 6 a-sequio.ads
+53P9 File_Type(25|43R9) 14|8r15[4] 9r15[4]
+55E9 File_Mode
+55n23 In_File{55E9[14|4]} 14|13r28[4]
+55n32 Out_File{55E9[14|4]} 14|14r30[4]
+70U14 Create 14|14s11[4]
+76U14 Open 14|13s11[4]
+82U14 Close 14|19s11[4] 20s11[4]
+97U14 Read 14|16s14[4]
+98U14 Write 14|17s14[4]
+100V13 End_Of_File{boolean} 14|15s21[4]
+X 14 main.adb
+3U11*Main 3b11 21l5 21t9
+4K12 Seq_IO[6|43] 8r8 9r8 13r4 13r21 14r4 14r23 15r14 16r7 17r7 19r4 20r4
+5e4 c{character} 16m24 16r24 17r25
+6a4 fich1{string} 13r37
+7a4 fich2{string} 14r40
+8p4 fp1{6|53P9[4]} 13m16 13r16 15r33 16r19 19m17 19r17
+9p4 fp2{6|53P9[4]} 14m18 14r18 17r20 20m17 20r17
+X 15 sequenio.ads
+24k17*Sequential_IO 14|2w6 4r26
+X 35 text_io.ads
+24K9*Text_IO=24:29 14|1w6
+

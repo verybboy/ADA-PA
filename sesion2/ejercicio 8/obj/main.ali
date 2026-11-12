@@ -1,0 +1,64 @@
+V "GNAT Lib v2011"
+M P W=b
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnvnnvnnnnnnnnnnnnnnnnvnnnnvnnnnnnnnnnnnnn
+
+U main%b		main.adb		8c10bf51 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W system.concat_4%s	s-conca4.adb		s-conca4.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-comlin.ads		20110428140900 e0accaa5
+D a-except.ads		20110428140900 4759ecee
+D a-finali.ads		20110428140900 b333d305
+D a-fihema.ads		20110428140900 1940728a
+D a-ioexce.ads		20110428140900 8b9de6cd
+D a-stream.ads		20110428140902 2ca4ee37
+D a-tags.ads		20110428140902 7b33f560
+D a-textio.ads		20110428140902 386df5d4
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-cstrea.ads		20110428140906 1bd72c32
+D main.adb		20121123000910 296a533d
+D system.ads		20110428140910 bc164b96
+D s-conca4.ads		20110428140906 025fe3be
+D s-crtl.ads		20110428140906 ac77b159
+D s-exctab.ads		20110428140906 66e51330
+D s-ficobl.ads		20110428140906 443b9d66
+D s-finroo.ads		20110428140906 2dd85ce2
+D s-imgint.ads		20110428140906 02dbe0c2
+D s-parame.ads		20110428140908 03aa3b01
+D s-pooglo.ads		20110428140908 542f33d0
+D s-secsta.ads		20110428140908 eea35a36
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-stopoo.ads		20110428140908 5c51faf9
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-wchcon.ads		20110428140910 bfeb2e3d
+D text_io.ads		20110428140910 45d626c9
+X 1 ada.ads
+16K9*Ada 19e8 13|2r6 6r42 6r104 8r16 9r24
+X 2 a-comlin.ads
+38K13*Command_Line 139e21 13|2w10 6r46 6r108 8r20 9r28
+41V13*Argument_Count{natural} 13|6s121 8s33
+48V13*Argument{string} 13|9s41
+57V13*Command_Name{string} 13|6s59
+X 9 a-textio.ads
+242U14*Put 13|6s12 7s12
+263U14*Put_Line 13|9s15
+X 13 main.adb
+4U11*Main 4b11 12l5 12t9
+8i8 i{integer} 9r50
+X 33 text_io.ads
+24K9*Text_IO=24:29 13|1w6 6r4 7r4 9r7
+

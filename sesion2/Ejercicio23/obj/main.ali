@@ -1,0 +1,78 @@
+V "GNAT Lib v2011"
+M P W=b
+A -gnatA
+P SS ZX
+R nnnnnnnnnnnnnnnnnnvnnvnnnvnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnvnnnnvnnnnnnnnnnnnnn
+
+U main%b		main.adb		4be3ac75 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.text_io.integer_aux%s  a-tiinau.adb	a-tiinau.ali
+W ada.text_io.integer_io%s
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-except.ads		20110428140900 4759ecee
+D a-finali.ads		20110428140900 b333d305
+D a-fihema.ads		20110428140900 1940728a
+D a-ioexce.ads		20110428140900 8b9de6cd
+D a-stream.ads		20110428140902 2ca4ee37
+D a-tags.ads		20110428140902 7b33f560
+D a-textio.ads		20110428140902 386df5d4
+D a-tiinau.ads		20110428140902 8114c8e4
+D a-tiinio.ads		20110428140902 aa04e5d6
+D a-tiinio.adb		20110428140902 df9cd7af
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-cstrea.ads		20110428140906 1bd72c32
+D main.adb		20121030144630 0e358abc
+D system.ads		20110428140910 bc164b96
+D s-crtl.ads		20110428140906 ac77b159
+D s-exctab.ads		20110428140906 66e51330
+D s-ficobl.ads		20110428140906 443b9d66
+D s-finroo.ads		20110428140906 2dd85ce2
+D s-parame.ads		20110428140908 03aa3b01
+D s-pooglo.ads		20110428140908 542f33d0
+D s-secsta.ads		20110428140908 eea35a36
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-stopoo.ads		20110428140908 5c51faf9
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-wchcon.ads		20110428140910 bfeb2e3d
+D text_io.ads		20110428140910 45d626c9
+X 8 a-textio.ads
+242U14*Put 15|64s12 86s12
+249U14*Get_Line 15|65s12
+X 10 a-tiinio.ads
+45k21*Integer_IO 84e27 15|5r34
+65U14 Put 15|87s11[5]
+X 15 main.adb
+3U11*Main 3b11 89l5 89t9
+5K12 Int_IO[10|45] 87r4
+7R9 Equivalencia 11e17 13r38
+9e10 Num_Romano{character} 25m19 27m19 29m19 31m19 33m19 35m19 37m19 39m19
+. 41m19 43m20 45m20 47m20 49m20 51m20 69r38
+10i10 Num_Entero{integer} 26m19 28m19 30m19 32m19 34m19 36m19 38m19 40m19
+. 42m19 44m20 46m20 48m20 50m20 52m20 70r36
+13A9 Array_Eq(7R9)<integer> 14r13
+14a4 Mi_Array{13A9} 25m7 26m7 27m7 28m7 29m7 30m7 31m7 32m7 33m7 34m7 35m7
+. 36m7 37m7 38m7 39m7 40m7 41m7 42m7 43m7 44m7 45m7 46m7 47m7 48m7 49m7 50m7
+. 51m7 52m7 69r26 70r24
+15a4 Num_Roman{string} 65m21 65r21 69r13
+16i4 Valor_Act{integer} 61m4 70m13 71r16 72r37 74r37 76r24
+17i4 Valor_Ant{integer} 62m4 71r26 76m13
+18i4 Resultado{integer} 60m4 72m16 72r27 74m16 74r27 87r15
+19i4 Longitud{natural} 65m31 65r31 67r26
+21U14 inicializacion 21b14 55l8 55t22 59s4
+67i8 I{integer} 69r23
+68i11 J{integer} 69r35 70r33
+X 33 text_io.ads
+24K9*Text_IO=24:29 15|1w6 5r26 64r4 65r4 86r4
+
