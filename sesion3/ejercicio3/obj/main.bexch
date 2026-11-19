@@ -1,17 +1,18 @@
 [GENERATED OBJECT FILE]
 b__main.o
 [PROJECT FILES]
-C:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio2.gpr
-20261119103952
+C:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio3\ejercicio3.gpr
+20261119104740
 [BOUND OBJECT FILES]
-C:\Users\i0910938\repos\ADA-PA\sesion3\obj\main.o
+C:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio3\obj\monitor.o
+C:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio3\obj\main.o
 [GENERATED SOURCE FILES]
 b__main.ads
 b__main.adb
 b__main.ali
 [RESULTING OPTIONS]
--LC:\Users\i0910938\repos\ADA-PA\sesion3\obj\
--LC:\Users\i0910938\repos\ADA-PA\sesion3\obj\
+-LC:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio3\obj\
+-LC:\Users\i0910938\repos\ADA-PA\sesion3\ejercicio3\obj\
 -LC:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/
 -static
 -static-libgcc
